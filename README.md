@@ -16,4 +16,7 @@ A simple and powerful Flutter-based Translator App that supports real-time text 
 - 
 - 📱 Clean and Responsive UI
 
+## 📷 Screenshots
+
+![App Screenshot](output.png)
 
